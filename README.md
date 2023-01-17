@@ -2,4 +2,4 @@
 - 👀 I’m interested in Statistics, Machine Learning, and Duplicate Bridge! 
 - 🌱 I’m currently learning the theoritical and practical foundations of Statistical concepts at UD. 
 - 💞️ I’m looking to collaborate on any kind of data science project, although my experience and preference leans towards Financial Data projects. 
-- 📫 How to reach me: rafsan@udel.edu
+- 📫 Visit this: https://rafsanrubaiyat.github.io/  
