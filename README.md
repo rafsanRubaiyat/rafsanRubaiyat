@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafsan Siddiqui @rafsanRubaiyat 
-- 👀 I’m interested in Statistics, Machine Learning, and Duplicate Bridge! 
-- 🌱 I’m currently learning the theoritical and practical foundations of Statistical concepts at UD. 
-- 💞️ I’m looking to collaborate on any kind of data science project, although my experience and preference leans towards Financial Data projects. 
+- 👀 I’m interested in Statistics, Machine Learning, Cloud Computing, and Duplicate Bridge! 
+- 🌱 Just finished my MS in Statistics at UD and one-year associate tenure at Barclays USCB. 
+- 💞️ I’m looking to collaborate on any kind of data science project, although my experience and preference lean towards Financial Data projects. 
 - 📫 Visit this: https://rafsanrubaiyat.github.io/  
